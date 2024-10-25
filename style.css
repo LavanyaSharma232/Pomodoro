@@ -1,13 +1,14 @@
 body {
-    background-color: #ffe0e6;
-    font-family: 'Arial', sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-  
+  background: url('background.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
   .container {
     background-color: #ffd1dc;
     border-radius: 20px;
