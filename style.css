@@ -1,6 +1,6 @@
 /* Applying the background image */
 body {
-  background: url('background.jpeg') no-repeat center center fixed;
+  background: url('ribbons.jpeg') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Arial', sans-serif;
   display: flex;
