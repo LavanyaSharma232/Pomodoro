@@ -68,18 +68,7 @@ button:hover {
   text-align: center;
 }
 
-/* Sparkly effect */
-.container::before {
-  content: '';
-  position: absolute;
-  top: -50px;
-  left: -50px;
-  width: 100px;
-  height: 100px;
-  background: rgba(255, 255, 255, 0.7);
-  border-radius: 50%;
-  animation: sparkle 4s infinite;
-}
+
 
 .container::after {
   content: '';
